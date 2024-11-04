@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='2_Adaptor'/>
+        <page name='3_Template'/>
+        <page name='4_Factory'/>
+        <page name='5_Singleton'/>
+        <page name='6_Prototype'/>
+        <page name='7_Builder'/>
+        <page name='8_AbstractFactory'/>
+        <page name='9_Bridge'/>
+        <page name='10_Strategy'/>
+        <page name='11_Composite'/>
+        <page name='12_Decorator'/>
+        <page name='13_Visitor'/>
+        <page name='14_ChainOfResponsibility'/>
+        <page name='15_Facade'/>
+        <page name='16_Mediator'/>
+        <page name='17_Observer'/>
+        <page name='18_Memento'/>
+        <page name='19_State'/>
+        <page name='20_Flyweight'/>
+        <page name='21_Proxy'/>
+        <page name='22_Command'/>
+        <page name='23_Interpreter'/>
+    </pages>
+</playground>
