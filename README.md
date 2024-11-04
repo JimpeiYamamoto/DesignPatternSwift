@@ -1,7 +1,7 @@
 # DesignPatternSwift
 ## 概要
 - デザインパターンの学習が目的です
-- [Java言語で学ぶデザインパターン入門第3版](https://www.hyuki.com/dp/)のサンプルコードをSwiftで書き換えました
+- [Java言語で学ぶデザインパターン入門第3版](https://www.hyuki.com/dp/)の[サンプルコード](https://www.hyuki.com/dp/zip/dp3src_utf8_2021-11-02.zip)をSwiftで書き換えました
 - (1章のIteratorパターンと、23章のInterpreterパターン以外)
 ## 内容
 - 生成に関するパターン
